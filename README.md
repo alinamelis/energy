@@ -33,7 +33,7 @@ Unpack data.zip archive into corresponding folders.
 
 Use code.ipynb to run and read cells.
 
-Read my blog on Medium: 
+Read my blog on Medium: https://v-alina.medium.com/zero-by-2050-or-limits-of-a-forest-1fc240b33570
 
 # Limitations:
 
