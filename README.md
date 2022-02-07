@@ -10,13 +10,13 @@ I found a dataset with energy source balance on Kaggle (data ranging from 1990 t
 
 - Energy consumption and production balance in Europe between 1991 and 2019, per country, energy balance code, energy production source, unit, and geography: energy_balance_eu.csv;
 - Energy balance dictionary of terms - nrg_bal_dict.csv;
-- Energy production sources dictionary of terms - siec_dict.csv; (not required for the purposes of this exercise)
+- Energy production sources dictionary of terms - siec_dict.csv; (Not required for the study, purely illustration)
 
 ### code.ipynb
 Jupyter notebook with code and comments
 
 ### rf_drafts.pdf
-Export from Jupyter notebook with code and comments. Illustrates the attempts (and failure) to model with Random Forest. Not required 
+Export from Jupyter notebook with code and comments. Illustrates the attempts (and failure) to model with Random Forest. Not required for the study, purely illustration.
 
 
 ## These are the questions that's I'd like to answer:
