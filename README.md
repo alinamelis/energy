@@ -15,8 +15,7 @@ I found a dataset with energy source balance on Kaggle (data ranging from 1990 t
 ### code.ipynb
 Jupyter notebook with code and comments
 
-### rf_drafts.pdf
-Export from Jupyter notebook with code and comments. Illustrates the attempts (and failure) to model with Random Forest. Not required for the study, purely illustration.
+Last section "Appendix. ATTEMPT TO PREDICT WITH RANDOM FOREST" is not required for the study, purely illustration and perhaps a starting point for future improvements.
 
 
 ## These are the questions that's I'd like to answer:
